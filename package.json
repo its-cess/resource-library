@@ -1,7 +1,7 @@
 {
   "name": "vue-first-app",
   "version": "0.1.0",
-  "homepage": "http://its-cess.github.io/resource-library",
+  "homepage": "https://its-cess.github.io/resource-library/",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
