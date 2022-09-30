@@ -10,5 +10,5 @@ cd dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com/its-cess/resource-library.git master:gh-pages
+git push -f git@github.com:its-cess/resource-library.git main:gh-pages
 cd -
